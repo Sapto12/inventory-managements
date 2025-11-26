@@ -18,7 +18,7 @@ export default function Home() {
             <Link href="#" className="bg-white text-purple-600 px-8 py-3 rounded-lg font-semibold border-2 border-purple-600 hover:bg-purple-600 transition-colors hover:text-white">learn more</Link>
           </div>
         </div>
-      </div>
+      </div>  
     </div>
     
   );
